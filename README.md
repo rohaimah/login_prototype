@@ -1,4 +1,4 @@
-# login_prototype
+# Login Prototype
 A basic login UI/UX prototype designed in Figma showcasing simple authentication screen design.
 
 𝑻𝒐𝒐𝒍 𝑼𝒔𝒆𝒅:
